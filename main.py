@@ -3,7 +3,7 @@ import requests
 from streamlit_folium import folium_static
 import folium
 
-api_key = "APIKeyHere"
+api_key = "e5226148-61eb-4201-bb03-76678b8471f5"
 
 st.title("Weather and Air Quality Web App")
 st.header("Streamlit and AirVisual API")
